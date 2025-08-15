@@ -1,0 +1,7 @@
+data_source: local
+data_dir: data
+register_models: false
+forecast_horizon_days: 30
+default_service_level: 0.9
+country_holidays: IN
+parallel_jobs: 4
